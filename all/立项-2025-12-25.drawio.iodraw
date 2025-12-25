@@ -78,7 +78,7 @@
         <mxCell id="process4" value="项目评估审查&#xa;1.技术可行性分析与资源配置&#xa;2.公司重点战略匹配度评估&#xa;3.知识产权风险评估与应对策略&#xa;4.目标市场规模、竞争对手分析与技术壁垒&#xa;5.经济分析与预期目标评估" style="rounded=0;fillColor=#7CB342;strokeColor=#558B2F;fontColor=#FFFFFF;fontSize=10;" parent="lane2" vertex="1">
           <mxGeometry x="20" y="110" width="240" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="decision2" value="项目部初评" style="rhombus;fillColor=#00BCD4;strokeColor=#0097A7;fontColor=#FFFFFF;fontSize=12;" parent="lane2" vertex="1">
+        <mxCell id="decision2" value="研发部初评" style="rhombus;fillColor=#00BCD4;strokeColor=#0097A7;fontColor=#FFFFFF;fontSize=12;" parent="lane2" vertex="1">
           <mxGeometry x="70" y="240" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="result2a" value="否决" style="ellipse;fillColor=#FFA726;strokeColor=#F57C00;fontColor=#FFFFFF;fontSize=11;" parent="lane2" vertex="1">
