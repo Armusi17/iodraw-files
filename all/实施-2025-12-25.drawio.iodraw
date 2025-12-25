@@ -19,6 +19,9 @@
         <mxCell id="req_analysis" value="需求分析筛选" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d4e6f1;" parent="lane2" vertex="1">
           <mxGeometry x="10" y="130" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="A2z6mXwBfs9bLNMqSxDx-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lane2" source="A2z6mXwBfs9bLNMqSxDx-2" target="A2z6mXwBfs9bLNMqSxDx-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="A2z6mXwBfs9bLNMqSxDx-2" value="需求评审" style="rhombus;whiteSpace=wrap;html=1;fillColor=#bbabcc;" vertex="1" parent="lane2">
           <mxGeometry x="10" y="210" width="100" height="70" as="geometry" />
         </mxCell>
@@ -27,7 +30,7 @@
             <mxPoint x="60" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A2z6mXwBfs9bLNMqSxDx-3" value="需求评审" style="rhombus;whiteSpace=wrap;html=1;fillColor=#bbabcc;" vertex="1" parent="lane2">
+        <mxCell id="A2z6mXwBfs9bLNMqSxDx-3" value="需求验收" style="rhombus;whiteSpace=wrap;html=1;fillColor=#bbabcc;" vertex="1" parent="lane2">
           <mxGeometry x="10" y="310" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="lane3" value="方案设计及评审" style="swimlane;startSize=40;fontSize=12;fontStyle=1;fillColor=#488cdc;fontColor=#FFFFFF;" parent="1" vertex="1">
