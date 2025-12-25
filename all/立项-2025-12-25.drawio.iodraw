@@ -67,7 +67,7 @@
           <mxGeometry x="60" y="760" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lane2" value="立项流程" style="swimlane;fontStyle=1;fontSize=14;fillColor=#4A90E2;strokeColor=#2E5C8A;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="260" y="40" width="280" height="820" as="geometry" />
+          <mxGeometry x="260" y="40" width="280" height="750" as="geometry" />
         </mxCell>
         <mxCell id="start2" value="研发部或承担部门&#xa;发出立项申请" style="rounded=1;fillColor=#9B59B6;strokeColor=#6C3A7C;fontColor=#FFFFFF;fontSize=12;" parent="lane2" vertex="1">
           <mxGeometry x="60" y="30" width="160" height="50" as="geometry" />
@@ -119,7 +119,7 @@
           <mxGeometry x="170" y="760" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lane3" value="项目启动" style="swimlane;fontStyle=1;fontSize=14;fillColor=#4A90E2;strokeColor=#2E5C8A;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="540" y="40" width="220" height="820" as="geometry" />
+          <mxGeometry x="540" y="40" width="220" height="750" as="geometry" />
         </mxCell>
         <mxCell id="nKLSfLPYwRtFnEKUHTs9-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="lane3" source="start3" target="process6" edge="1">
           <mxGeometry relative="1" as="geometry" />
