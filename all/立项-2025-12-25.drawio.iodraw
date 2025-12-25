@@ -63,6 +63,9 @@
         <mxCell id="edge6" style="edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;entryX=0.5;entryY=0;endArrow=classic;strokeColor=#333333;" parent="lane1" source="result1b" target="process3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="nKLSfLPYwRtFnEKUHTs9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lane2" target="nKLSfLPYwRtFnEKUHTs9-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lane2" value="立项流程" style="swimlane;fontStyle=1;fontSize=14;fillColor=#4A90E2;strokeColor=#2E5C8A;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="260" y="40" width="280" height="520" as="geometry" />
         </mxCell>
@@ -82,7 +85,7 @@
           <mxGeometry x="225" y="262.5" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="process5" value="研发部组织立项评审会" style="rounded=1;fillColor=#9B59B6;strokeColor=#6C3A7C;fontColor=#FFFFFF;fontSize=12;" parent="lane2" vertex="1">
-          <mxGeometry x="60" y="350" width="160" height="50" as="geometry" />
+          <mxGeometry x="60" y="360" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="decision3" value="立项决议评审" style="rhombus;fillColor=#00BCD4;strokeColor=#0097A7;fontColor=#FFFFFF;fontSize=12;" parent="lane2" vertex="1">
           <mxGeometry x="70" y="440" width="140" height="80" as="geometry" />
