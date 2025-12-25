@@ -121,7 +121,7 @@
         <mxCell id="nKLSfLPYwRtFnEKUHTs9-18" value="&lt;font color=&quot;#ffffff&quot; size=&quot;1&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;立项评审意见&lt;/span&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#49A9FC;strokeColor=#6c8ebf;" parent="lane2" vertex="1">
           <mxGeometry x="190" y="420" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nKLSfLPYwRtFnEKUHTs9-19" value="&lt;font face=&quot;SimSun&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;研发项目&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;SimSun&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;立项决议&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#49A9FC;strokeColor=#6c8ebf;" parent="lane2" vertex="1">
+        <mxCell id="nKLSfLPYwRtFnEKUHTs9-19" value="&lt;font face=&quot;Helvetica&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;研发项目&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;TmS3GfYgfZQa7NLGIZG-&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;立项决议&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#49A9FC;strokeColor=#6c8ebf;" parent="lane2" vertex="1">
           <mxGeometry x="100" y="760" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lane3" value="项目启动" style="swimlane;fontStyle=1;fontSize=14;fillColor=#4A90E2;strokeColor=#2E5C8A;fontColor=#FFFFFF;" parent="1" vertex="1">
