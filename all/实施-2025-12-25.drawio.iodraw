@@ -78,7 +78,7 @@
         <mxCell id="A2z6mXwBfs9bLNMqSxDx-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lane3" source="A2z6mXwBfs9bLNMqSxDx-22" target="A2z6mXwBfs9bLNMqSxDx-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A2z6mXwBfs9bLNMqSxDx-16" value="需求评审" style="rhombus;whiteSpace=wrap;html=1;fillColor=#bbabcc;" vertex="1" parent="lane3">
+        <mxCell id="A2z6mXwBfs9bLNMqSxDx-16" value="设计评审" style="rhombus;whiteSpace=wrap;html=1;fillColor=#bbabcc;" vertex="1" parent="lane3">
           <mxGeometry x="41" y="220" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="A2z6mXwBfs9bLNMqSxDx-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="lane3" source="A2z6mXwBfs9bLNMqSxDx-19" target="A2z6mXwBfs9bLNMqSxDx-20">
