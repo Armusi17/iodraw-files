@@ -19,8 +19,14 @@
         <mxCell id="req_analysis" value="需求分析筛选" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d4e6f1;" parent="lane2" vertex="1">
           <mxGeometry x="10" y="130" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="kAaPqaJMHkivVM6T2HVm-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lane2" source="req_review" target="kAaPqaJMHkivVM6T2HVm-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="req_review" value="需求评审" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;" parent="lane2" vertex="1">
           <mxGeometry x="10" y="200" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="kAaPqaJMHkivVM6T2HVm-1" value="需求评审" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;" vertex="1" parent="lane2">
+          <mxGeometry x="10" y="280" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lane3" value="方案设计" style="swimlane;startSize=40;fontSize=12;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="40" width="120" height="560" as="geometry" />
@@ -141,9 +147,6 @@
         </mxCell>
         <mxCell id="legend_end" value="项目完成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#c6e0b4;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="310" y="620" width="80" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="kAaPqaJMHkivVM6T2HVm-1" value="需求评审" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="180" y="250" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
