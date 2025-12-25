@@ -142,10 +142,17 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nKLSfLPYwRtFnEKUHTs9-3" value="（1）项目预算金额超过20 万元的，&#xa;由总经理审批通过后形成立项决议；&#xa;（2）项目预算金额超过50 万元的，&#xa;由董事长审批通过后形成立项决议；&#xa;（3） 项目预算金额＞100 万元的，&#xa;需履行 “三重一大” 决策审议程序，&#xa;经科创委审议通过后形成立项决议。" style="rounded=0;fillColor=#7CB342;strokeColor=#558B2F;fontColor=#FFFFFF;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="280" y="600" width="240" height="100" as="geometry" />
+          <mxGeometry x="300" y="600" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="nKLSfLPYwRtFnEKUHTs9-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nKLSfLPYwRtFnEKUHTs9-5" target="process5">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="755" />
+              <mxPoint x="270" y="590" />
+              <mxPoint x="300" y="590" />
+              <mxPoint x="300" y="425" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="nKLSfLPYwRtFnEKUHTs9-5" value="修改再审" style="ellipse;fillColor=#FFA726;strokeColor=#F57C00;fontColor=#FFFFFF;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="280" y="730" width="60" height="50" as="geometry" />
