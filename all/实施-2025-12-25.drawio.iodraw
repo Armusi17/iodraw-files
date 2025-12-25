@@ -19,7 +19,7 @@
         <mxCell id="req_analysis" value="需求分析筛选" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d4e6f1;" parent="lane2" vertex="1">
           <mxGeometry x="10" y="130" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="A2z6mXwBfs9bLNMqSxDx-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lane2" source="A2z6mXwBfs9bLNMqSxDx-2" target="A2z6mXwBfs9bLNMqSxDx-3">
+        <mxCell id="A2z6mXwBfs9bLNMqSxDx-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lane2" source="A2z6mXwBfs9bLNMqSxDx-13" target="A2z6mXwBfs9bLNMqSxDx-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A2z6mXwBfs9bLNMqSxDx-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="lane2" source="A2z6mXwBfs9bLNMqSxDx-2" target="req_analysis">
@@ -37,12 +37,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A2z6mXwBfs9bLNMqSxDx-3" value="需求验收" style="rhombus;whiteSpace=wrap;html=1;fillColor=#bbabcc;" vertex="1" parent="lane2">
-          <mxGeometry x="10" y="310" width="100" height="70" as="geometry" />
+          <mxGeometry x="10" y="340" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="A2z6mXwBfs9bLNMqSxDx-7" value="否决" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffff91;" vertex="1" parent="lane2">
           <mxGeometry x="-26.999999999999943" y="190" width="35" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="A2z6mXwBfs9bLNMqSxDx-11" value="否决" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffff91;" vertex="1" parent="lane2">
+        <mxCell id="A2z6mXwBfs9bLNMqSxDx-11" value="通过" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffff91;" vertex="1" parent="lane2">
           <mxGeometry x="110.00000000000006" y="275" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="A2z6mXwBfs9bLNMqSxDx-12" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;" edge="1" parent="lane2" source="A2z6mXwBfs9bLNMqSxDx-3">
@@ -53,6 +53,15 @@
               <mxPoint x="130" y="345" />
               <mxPoint x="130" y="310" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A2z6mXwBfs9bLNMqSxDx-13" value="通过" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffff91;" vertex="1" parent="lane2">
+          <mxGeometry x="42.50000000000006" y="300" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="A2z6mXwBfs9bLNMqSxDx-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lane2" source="A2z6mXwBfs9bLNMqSxDx-2" target="A2z6mXwBfs9bLNMqSxDx-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="320" as="sourcePoint" />
+            <mxPoint x="200" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lane3" value="方案设计及评审" style="swimlane;startSize=40;fontSize=12;fontStyle=1;fillColor=#488cdc;fontColor=#FFFFFF;" parent="1" vertex="1">
