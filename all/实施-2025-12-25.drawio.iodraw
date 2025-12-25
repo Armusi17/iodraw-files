@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="page-1">
-    <mxGraphModel dx="2261" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2022" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,55 +13,63 @@
         <mxCell id="lane2" value="需求分析" style="swimlane;startSize=40;fontSize=12;fontStyle=1;fillColor=#488cdc;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="110" y="40" width="180" height="550" as="geometry" />
         </mxCell>
-        <mxCell id="req_survey" value="需求调研" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d4e6f1;" parent="lane2" vertex="1">
-          <mxGeometry x="10" y="60" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="req_analysis" value="需求分析筛选" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d4e6f1;" parent="lane2" vertex="1">
-          <mxGeometry x="10" y="130" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="A2z6mXwBfs9bLNMqSxDx-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lane2" source="A2z6mXwBfs9bLNMqSxDx-13" target="A2z6mXwBfs9bLNMqSxDx-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="A2z6mXwBfs9bLNMqSxDx-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="lane2" source="A2z6mXwBfs9bLNMqSxDx-2" target="req_analysis">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="A2z6mXwBfs9bLNMqSxDx-2" value="需求评审" style="rhombus;whiteSpace=wrap;html=1;fillColor=#bbabcc;" vertex="1" parent="lane2">
-          <mxGeometry x="10" y="210" width="100" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="e3" style="edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;entryX=0.5;entryY=0;endArrow=classic;entryDx=0;entryDy=0;" parent="lane2" source="req_analysis" target="A2z6mXwBfs9bLNMqSxDx-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="60" y="200" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="A2z6mXwBfs9bLNMqSxDx-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="lane2" source="A2z6mXwBfs9bLNMqSxDx-3" target="A2z6mXwBfs9bLNMqSxDx-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A2z6mXwBfs9bLNMqSxDx-3" value="需求验收" style="rhombus;whiteSpace=wrap;html=1;fillColor=#bbabcc;" vertex="1" parent="lane2">
-          <mxGeometry x="10" y="370" width="100" height="70" as="geometry" />
+        <mxCell id="req_survey" value="需求调研" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d4e6f1;" parent="lane2" vertex="1">
+          <mxGeometry x="41" y="60" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="A2z6mXwBfs9bLNMqSxDx-7" value="否决" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffff91;" vertex="1" parent="lane2">
-          <mxGeometry x="-26.999999999999943" y="190" width="35" height="35" as="geometry" />
+        <mxCell id="req_analysis" value="需求分析筛选" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d4e6f1;" parent="lane2" vertex="1">
+          <mxGeometry x="41" y="130" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="A2z6mXwBfs9bLNMqSxDx-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lane2" source="A2z6mXwBfs9bLNMqSxDx-13" target="A2z6mXwBfs9bLNMqSxDx-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A2z6mXwBfs9bLNMqSxDx-2" value="需求评审" style="rhombus;whiteSpace=wrap;html=1;fillColor=#bbabcc;" vertex="1" parent="lane2">
+          <mxGeometry x="41" y="210" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="e3" style="edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;entryX=0.5;entryY=0;endArrow=classic;entryDx=0;entryDy=0;" parent="lane2" source="req_analysis" target="A2z6mXwBfs9bLNMqSxDx-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="91" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A2z6mXwBfs9bLNMqSxDx-3" value="需求验收" style="rhombus;whiteSpace=wrap;html=1;fillColor=#bbabcc;" vertex="1" parent="lane2">
+          <mxGeometry x="41" y="370" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="A2z6mXwBfs9bLNMqSxDx-12" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="lane2" source="A2z6mXwBfs9bLNMqSxDx-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="110" y="345" as="sourcePoint" />
-            <mxPoint x="130" y="310" as="targetPoint" />
+            <mxPoint x="141" y="345" as="sourcePoint" />
+            <mxPoint x="161" y="310" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="130" y="405" />
+              <mxPoint x="161" y="405" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="A2z6mXwBfs9bLNMqSxDx-13" value="通过" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffff91;" vertex="1" parent="lane2">
-          <mxGeometry x="42.50000000000006" y="300" width="35" height="35" as="geometry" />
+          <mxGeometry x="73.50000000000006" y="300" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="A2z6mXwBfs9bLNMqSxDx-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lane2" source="A2z6mXwBfs9bLNMqSxDx-2" target="A2z6mXwBfs9bLNMqSxDx-13">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="320" as="sourcePoint" />
-            <mxPoint x="200" y="380" as="targetPoint" />
+            <mxPoint x="231" y="320" as="sourcePoint" />
+            <mxPoint x="231" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A2z6mXwBfs9bLNMqSxDx-11" value="通过" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffff91;" vertex="1" parent="lane2">
-          <mxGeometry x="110.00000000000006" y="275" width="35" height="35" as="geometry" />
+          <mxGeometry x="141.00000000000006" y="275" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="e1" style="edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;entryX=0;entryY=0.5;endArrow=classic;" parent="lane2" target="req_survey" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="31" y="85" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e2" style="edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;entryX=0.5;entryY=0;endArrow=classic;" parent="lane2" source="req_survey" target="req_analysis" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A2z6mXwBfs9bLNMqSxDx-7" value="否决" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffff91;" vertex="1" parent="lane2">
+          <mxGeometry x="4.000000000000057" y="190" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="lane3" value="方案设计及评审" style="swimlane;startSize=40;fontSize=12;fontStyle=1;fillColor=#488cdc;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="290" y="40" width="130" height="550" as="geometry" />
@@ -116,12 +124,6 @@
         </mxCell>
         <mxCell id="end" value="项目完成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#c6e0b4;" parent="lane6" vertex="1">
           <mxGeometry x="10" y="480" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="e1" style="edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;entryX=0;entryY=0.5;endArrow=classic;" parent="1" source="start" target="req_survey" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="e2" style="edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;entryX=0.5;entryY=0;endArrow=classic;" parent="1" source="req_survey" target="req_analysis" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e4" style="edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;endArrow=classic;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="A2z6mXwBfs9bLNMqSxDx-11" target="design" edge="1">
           <mxGeometry relative="1" as="geometry">
