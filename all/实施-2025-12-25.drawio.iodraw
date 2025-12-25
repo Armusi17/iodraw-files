@@ -4,13 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="lane1" value="项目启动" style="swimlane;startSize=40;fontSize=12;fontStyle=1;fillColor=#488cdc;strokeColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="lane1" value="项目启动" style="swimlane;startSize=40;fontSize=12;fontStyle=1;fillColor=#488cdc;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="120" height="520" as="geometry" />
         </mxCell>
         <mxCell id="start" value="项目立项审批" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d4e6f1;" parent="lane1" vertex="1">
           <mxGeometry x="10" y="60" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="lane2" value="需求分析" style="swimlane;startSize=40;fontSize=12;fontStyle=1;fillColor=#488cdc;strokeColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="lane2" value="需求分析" style="swimlane;startSize=40;fontSize=12;fontStyle=1;fillColor=#488cdc;" parent="1" vertex="1">
           <mxGeometry x="160" y="40" width="120" height="520" as="geometry" />
         </mxCell>
         <mxCell id="req_survey" value="需求调研" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d4e6f1;" parent="lane2" vertex="1">
@@ -22,7 +22,7 @@
         <mxCell id="req_review" value="需求评审" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;" parent="lane2" vertex="1">
           <mxGeometry x="10" y="200" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="lane3" value="方案设计及评审" style="swimlane;startSize=40;fontSize=12;fontStyle=1;fillColor=#488cdc;strokeColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="lane3" value="方案设计及评审" style="swimlane;startSize=40;fontSize=12;fontStyle=1;fillColor=#488cdc;" parent="1" vertex="1">
           <mxGeometry x="280" y="40" width="120" height="520" as="geometry" />
         </mxCell>
         <mxCell id="design" value="技术方案设计" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d4e6f1;" parent="lane3" vertex="1">
@@ -34,7 +34,7 @@
         <mxCell id="change_mgmt" value="项目变更管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cbad;" parent="lane3" vertex="1">
           <mxGeometry x="10" y="235" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="lane4" value="研发实施" style="swimlane;startSize=40;fontSize=12;fontStyle=1;fillColor=#488cdc;strokeColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="lane4" value="研发实施" style="swimlane;startSize=40;fontSize=12;fontStyle=1;fillColor=#488cdc;" parent="1" vertex="1">
           <mxGeometry x="400" y="40" width="120" height="520" as="geometry" />
         </mxCell>
         <mxCell id="dev_start" value="组建项目组" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d4e6f1;" parent="lane4" vertex="1">
@@ -49,7 +49,7 @@
         <mxCell id="dev_complete" value="研发完成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d4e6f1;" parent="lane4" vertex="1">
           <mxGeometry x="10" y="270" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="lane5" value="测试验证" style="swimlane;startSize=40;fontSize=12;fontStyle=1;fillColor=#488cdc;strokeColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="lane5" value="测试验证" style="swimlane;startSize=40;fontSize=12;fontStyle=1;fillColor=#488cdc;" parent="1" vertex="1">
           <mxGeometry x="520" y="40" width="120" height="520" as="geometry" />
         </mxCell>
         <mxCell id="test_internal" value="内部自测" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d4e6f1;" parent="lane5" vertex="1">
@@ -61,7 +61,7 @@
         <mxCell id="test_review" value="测试评审" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;" parent="lane5" vertex="1">
           <mxGeometry x="10" y="270" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="lane6" value="成果转化准备" style="swimlane;startSize=40;fontSize=12;fontStyle=1;fillColor=#488cdc;strokeColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="lane6" value="成果转化准备" style="swimlane;startSize=40;fontSize=12;fontStyle=1;fillColor=#488cdc;" parent="1" vertex="1">
           <mxGeometry x="640" y="40" width="120" height="520" as="geometry" />
         </mxCell>
         <mxCell id="result_prep" value="整理成果资料" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d4e6f1;" parent="lane6" vertex="1">
