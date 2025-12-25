@@ -76,7 +76,7 @@
           <mxGeometry x="70" y="240" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="result2a" value="否决" style="ellipse;fillColor=#FFA726;strokeColor=#F57C00;fontColor=#FFFFFF;fontSize=11;" parent="lane2" vertex="1">
-          <mxGeometry x="10" y="262.5" width="35" height="35" as="geometry" />
+          <mxGeometry x="20" y="262.5" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="result2b" value="通过" style="ellipse;fillColor=#FFA726;strokeColor=#F57C00;fontColor=#FFFFFF;fontSize=11;" parent="lane2" vertex="1">
           <mxGeometry x="225" y="262.5" width="35" height="35" as="geometry" />
@@ -122,7 +122,15 @@
           <mxGeometry x="20" y="220" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nKLSfLPYwRtFnEKUHTs9-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="process3" target="start2">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="470" />
+              <mxPoint x="270" y="95" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nKLSfLPYwRtFnEKUHTs9-3" value="项目评估审查&#xa;1.技术可行性分析与资源配置&#xa;2.公司重点战略匹配度评估&#xa;3.知识产权风险评估与应对策略&#xa;4.目标市场规模、竞争对手分析与技术壁垒&#xa;5.经济分析与预期目标评估" style="rounded=0;fillColor=#7CB342;strokeColor=#558B2F;fontColor=#FFFFFF;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="280" y="600" width="240" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
