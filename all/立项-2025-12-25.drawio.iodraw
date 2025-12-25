@@ -66,9 +66,6 @@
         <mxCell id="nKLSfLPYwRtFnEKUHTs9-15" value="&lt;font color=&quot;#ffffff&quot;&gt;研发项目立项申请表&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#49A9FC;strokeColor=#6c8ebf;" vertex="1" parent="lane1">
           <mxGeometry x="40" y="530" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nKLSfLPYwRtFnEKUHTs9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="lane2" target="nKLSfLPYwRtFnEKUHTs9-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="lane2" value="立项流程" style="swimlane;fontStyle=1;fontSize=14;fillColor=#4A90E2;strokeColor=#2E5C8A;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="260" y="40" width="280" height="780" as="geometry" />
         </mxCell>
@@ -90,7 +87,7 @@
         <mxCell id="process5" value="研发部组织立项评审会" style="rounded=1;fillColor=#9B59B6;strokeColor=#6C3A7C;fontColor=#FFFFFF;fontSize=12;" parent="lane2" vertex="1">
           <mxGeometry x="60" y="360" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="decision3" value="立项决议评审" style="rhombus;fillColor=#00BCD4;strokeColor=#0097A7;fontColor=#FFFFFF;fontSize=12;" parent="lane2" vertex="1">
+        <mxCell id="decision3" value="立项决议" style="rhombus;fillColor=#00BCD4;strokeColor=#0097A7;fontColor=#FFFFFF;fontSize=12;" parent="lane2" vertex="1">
           <mxGeometry x="70" y="450" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="edge7" style="edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;entryX=0.5;entryY=0;endArrow=classic;strokeColor=#333333;" parent="lane2" source="start2" target="process4" edge="1">
@@ -176,6 +173,9 @@
         </mxCell>
         <mxCell id="nKLSfLPYwRtFnEKUHTs9-7" value="批准立项" style="ellipse;fillColor=#FFA726;strokeColor=#F57C00;fontColor=#FFFFFF;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="460" y="730" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nKLSfLPYwRtFnEKUHTs9-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="decision3" target="nKLSfLPYwRtFnEKUHTs9-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
