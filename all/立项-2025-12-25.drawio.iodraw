@@ -122,7 +122,7 @@
           <mxGeometry x="190" y="420" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nKLSfLPYwRtFnEKUHTs9-19" value="&lt;font color=&quot;#ffffff&quot; size=&quot;1&quot; face=&quot;SimSun&quot;&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;立项评审意见&lt;/b&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#49A9FC;strokeColor=#6c8ebf;" vertex="1" parent="lane2">
-          <mxGeometry x="190" y="510" width="80" height="50" as="geometry" />
+          <mxGeometry x="100" y="750" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lane3" value="项目启动" style="swimlane;fontStyle=1;fontSize=14;fillColor=#4A90E2;strokeColor=#2E5C8A;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="540" y="40" width="220" height="780" as="geometry" />
@@ -187,9 +187,6 @@
           <mxGeometry x="460" y="730" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nKLSfLPYwRtFnEKUHTs9-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="decision3" target="nKLSfLPYwRtFnEKUHTs9-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="nKLSfLPYwRtFnEKUHTs9-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.554;entryY=0.87;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nKLSfLPYwRtFnEKUHTs9-7" target="nKLSfLPYwRtFnEKUHTs9-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
