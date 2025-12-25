@@ -160,6 +160,9 @@
         <mxCell id="kAaPqaJMHkivVM6T2HVm-4" value="设计验收" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="290" y="270" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="kAaPqaJMHkivVM6T2HVm-6" value="中期评审" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="420" y="250" width="100" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
