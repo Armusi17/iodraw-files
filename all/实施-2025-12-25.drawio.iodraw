@@ -32,7 +32,7 @@
           <mxGeometry x="10" y="130" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="change_mgmt" value="项目变更管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cbad;" parent="lane3" vertex="1">
-          <mxGeometry x="10" y="300" width="100" height="50" as="geometry" />
+          <mxGeometry x="-20" y="300" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lane4" value="研发实施" style="swimlane;startSize=40;fontSize=12;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="40" width="120" height="560" as="geometry" />
