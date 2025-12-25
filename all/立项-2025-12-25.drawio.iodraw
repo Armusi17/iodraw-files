@@ -19,7 +19,7 @@
         <mxCell id="process1" value="项目需求：&#xa;1.战略规划目标&#xa;2.市场需求分析&#xa;3.技术可行性分析&#xa;4.资源优化配置" style="rounded=0;fillColor=#fcefca;strokeColor=#558B2F;fontColor=#FFFFFF;fontSize=11;" parent="lane1" vertex="1">
           <mxGeometry x="30" y="110" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="decision1" value="研发计划审批" style="rhombus;fillColor=#64C2CC;strokeColor=#0097A7;fontColor=#FFFFFF;fontSize=12;" parent="lane1" vertex="1">
+        <mxCell id="decision1" value="研发计划审批" style="rhombus;fillColor=#A3C4CC;strokeColor=#0097A7;fontColor=#FFFFFF;fontSize=12;" parent="lane1" vertex="1">
           <mxGeometry x="50" y="220" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="result1a" value="否决" style="ellipse;fillColor=#ffa726;strokeColor=#1976D2;fontColor=#FFFFFF;fontSize=11;" parent="lane1" vertex="1">
@@ -78,7 +78,7 @@
         <mxCell id="process4" value="项目评估审查&#xa;1.技术可行性分析与资源配置&#xa;2.公司重点战略匹配度评估&#xa;3.知识产权风险评估与应对策略&#xa;4.目标市场规模、竞争对手分析与技术壁垒&#xa;5.经济分析与预期目标评估" style="rounded=0;fillColor=#fcefca;strokeColor=#558B2F;fontColor=#FFFFFF;fontSize=10;" parent="lane2" vertex="1">
           <mxGeometry x="20" y="110" width="240" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="decision2" value="研发部初评" style="rhombus;fillColor=#64C2CC;strokeColor=#0097A7;fontColor=#FFFFFF;fontSize=12;" parent="lane2" vertex="1">
+        <mxCell id="decision2" value="研发部初评" style="rhombus;fillColor=#A3C4CC;strokeColor=#0097A7;fontColor=#FFFFFF;fontSize=12;" parent="lane2" vertex="1">
           <mxGeometry x="70" y="240" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="result2a" value="否决" style="ellipse;fillColor=#FFA726;strokeColor=#F57C00;fontColor=#FFFFFF;fontSize=11;" parent="lane2" vertex="1">
@@ -90,7 +90,7 @@
         <mxCell id="process5" value="研发部组织立项评审会" style="rounded=1;fillColor=#d4e6f1;strokeColor=#6C3A7C;fontColor=#FFFFFF;fontSize=12;" parent="lane2" vertex="1">
           <mxGeometry x="60" y="360" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="decision3" value="立项决议" style="rhombus;fillColor=#64C2CC;strokeColor=#0097A7;fontColor=#FFFFFF;fontSize=12;" parent="lane2" vertex="1">
+        <mxCell id="decision3" value="立项决议" style="rhombus;fillColor=#A3C4CC;strokeColor=#0097A7;fontColor=#FFFFFF;fontSize=12;" parent="lane2" vertex="1">
           <mxGeometry x="70" y="450" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="edge7" style="edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;entryX=0.5;entryY=0;endArrow=classic;strokeColor=#333333;" parent="lane2" source="start2" target="process4" edge="1">
