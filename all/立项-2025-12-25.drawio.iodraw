@@ -115,7 +115,7 @@
         <mxCell id="edge12" style="edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;entryX=0.5;entryY=0;endArrow=classic;strokeColor=#333333;" parent="lane2" source="process5" target="decision3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nKLSfLPYwRtFnEKUHTs9-18" value="&lt;b&gt;&lt;span style=&quot;font-family: SimSun; font-size: 10.5pt;&quot;&gt;立项评审意见&lt;/span&gt;&lt;/b&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#49A9FC;strokeColor=#6c8ebf;" vertex="1" parent="lane2">
+        <mxCell id="nKLSfLPYwRtFnEKUHTs9-18" value="&lt;font color=&quot;#ffffff&quot; size=&quot;1&quot; face=&quot;SimSun&quot;&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;立项评审意见&lt;/b&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#49A9FC;strokeColor=#6c8ebf;" vertex="1" parent="lane2">
           <mxGeometry x="190" y="420" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lane3" value="项目启动" style="swimlane;fontStyle=1;fontSize=14;fillColor=#4A90E2;strokeColor=#2E5C8A;fontColor=#FFFFFF;" parent="1" vertex="1">
