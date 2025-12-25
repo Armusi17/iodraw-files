@@ -84,9 +84,6 @@
         <mxCell id="result2b" value="通过" style="ellipse;fillColor=#FFA726;strokeColor=#F57C00;fontColor=#FFFFFF;fontSize=11;" parent="lane2" vertex="1">
           <mxGeometry x="225" y="297.5" width="35" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="nKLSfLPYwRtFnEKUHTs9-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="lane2" source="process5" target="nKLSfLPYwRtFnEKUHTs9-18" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="process5" value="研发部组织立项评审会" style="rounded=1;fillColor=#9B59B6;strokeColor=#6C3A7C;fontColor=#FFFFFF;fontSize=12;" parent="lane2" vertex="1">
           <mxGeometry x="60" y="360" width="160" height="50" as="geometry" />
         </mxCell>
@@ -118,7 +115,7 @@
         <mxCell id="nKLSfLPYwRtFnEKUHTs9-18" value="&lt;font color=&quot;#ffffff&quot; size=&quot;1&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;立项评审意见&lt;/span&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#49A9FC;strokeColor=#6c8ebf;" parent="lane2" vertex="1">
           <mxGeometry x="190" y="420" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="nKLSfLPYwRtFnEKUHTs9-19" value="&lt;p&gt;&lt;font face=&quot;Helvetica&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;研发项目&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;font face=&quot;TmS3GfYgfZQa7NLGIZG-&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;立项决议&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#49A9FC;strokeColor=#6c8ebf;" parent="lane2" vertex="1">
+        <mxCell id="nKLSfLPYwRtFnEKUHTs9-19" value="/研发路径蓝图" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#49A9FC;strokeColor=#6c8ebf;" parent="lane2" vertex="1">
           <mxGeometry x="100" y="760" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lane3" value="项目启动" style="swimlane;fontStyle=1;fontSize=14;fillColor=#4A90E2;strokeColor=#2E5C8A;fontColor=#FFFFFF;" parent="1" vertex="1">
