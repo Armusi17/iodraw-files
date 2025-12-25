@@ -103,7 +103,7 @@
           <mxGeometry x="10" y="270" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lane6" value="成果转化准备" style="swimlane;startSize=40;fontSize=12;fontStyle=1;fillColor=#488cdc;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="640" y="40" width="120" height="550" as="geometry" />
+          <mxGeometry x="680" y="40" width="130" height="550" as="geometry" />
         </mxCell>
         <mxCell id="result_prep" value="整理成果资料" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d4e6f1;" parent="lane6" vertex="1">
           <mxGeometry x="10" y="270" width="100" height="50" as="geometry" />
@@ -129,9 +129,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="e5" style="edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;entryX=0.5;entryY=0;endArrow=classic;" parent="1" source="design" target="design_review" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="e6" style="edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;entryX=0.5;entryY=0;endArrow=classic;" parent="1" source="design_review" target="change_mgmt" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e7" style="edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;entryX=0;entryY=0.5;endArrow=classic;" parent="1" source="change_mgmt" target="dev_start" edge="1">
