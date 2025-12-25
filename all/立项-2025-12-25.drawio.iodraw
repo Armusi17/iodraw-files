@@ -115,8 +115,14 @@
         <mxCell id="lane3" value="项目启动" style="swimlane;fontStyle=1;fontSize=14;fillColor=#4A90E2;strokeColor=#2E5C8A;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="540" y="40" width="220" height="520" as="geometry" />
         </mxCell>
+        <mxCell id="nKLSfLPYwRtFnEKUHTs9-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="lane3" source="start3" target="process6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="start3" value="承担部门/研发部&#xa;正式发布项目启动公告" style="rounded=1;fillColor=#9B59B6;strokeColor=#6C3A7C;fontColor=#FFFFFF;fontSize=11;" parent="lane3" vertex="1">
           <mxGeometry x="20" y="30" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nKLSfLPYwRtFnEKUHTs9-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="lane3" source="process6" target="process7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="process6" value="分配立项研发项目唯一编号RDXX" style="rounded=0;fillColor=#7CB342;strokeColor=#558B2F;fontColor=#FFFFFF;fontSize=11;" parent="lane3" vertex="1">
           <mxGeometry x="20" y="120" width="180" height="60" as="geometry" />
@@ -158,7 +164,12 @@
           <mxGeometry x="370" y="730" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nKLSfLPYwRtFnEKUHTs9-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nKLSfLPYwRtFnEKUHTs9-7" target="start3">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="755" />
+              <mxPoint x="550" y="100" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="nKLSfLPYwRtFnEKUHTs9-7" value="批准立项" style="ellipse;fillColor=#FFA726;strokeColor=#F57C00;fontColor=#FFFFFF;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="460" y="730" width="60" height="50" as="geometry" />
