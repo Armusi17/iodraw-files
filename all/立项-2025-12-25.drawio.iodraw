@@ -16,10 +16,10 @@
         <mxCell id="decision1" value="研发计划审批" style="rhombus;fillColor=#00BCD4;strokeColor=#0097A7;fontColor=#FFFFFF;fontSize=12;" parent="lane1" vertex="1">
           <mxGeometry x="50" y="220" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="result1a" value="否决" style="ellipse;fillColor=#42A5F5;strokeColor=#1976D2;fontColor=#FFFFFF;fontSize=11;" parent="lane1" vertex="1">
+        <mxCell id="result1a" value="否决" style="ellipse;fillColor=#ffa726;strokeColor=#1976D2;fontColor=#FFFFFF;fontSize=11;" parent="lane1" vertex="1">
           <mxGeometry x="20" y="290" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="result1b" value="通过" style="ellipse;fillColor=#42A5F5;strokeColor=#1976D2;fontColor=#FFFFFF;fontSize=11;" parent="lane1" vertex="1">
+        <mxCell id="result1b" value="通过" style="ellipse;fillColor=#ffa726;strokeColor=#1976D2;fontColor=#FFFFFF;fontSize=11;" parent="lane1" vertex="1">
           <mxGeometry x="180" y="290" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="lane1" source="process2" edge="1">
