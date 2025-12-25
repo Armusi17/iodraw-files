@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="page-1">
-    <mxGraphModel dx="478" dy="279" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="160" dy="93" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,16 +43,15 @@
           <mxGeometry x="-26.999999999999943" y="190" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="A2z6mXwBfs9bLNMqSxDx-11" value="否决" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffff91;" vertex="1" parent="lane2">
-          <mxGeometry x="115.00000000000006" y="275" width="35" height="35" as="geometry" />
+          <mxGeometry x="110.00000000000006" y="275" width="35" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="A2z6mXwBfs9bLNMqSxDx-12" value="" style="edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=1;endArrow=classic;entryDx=0;entryDy=0;" edge="1" parent="lane2" source="A2z6mXwBfs9bLNMqSxDx-3" target="A2z6mXwBfs9bLNMqSxDx-11">
+        <mxCell id="A2z6mXwBfs9bLNMqSxDx-12" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;" edge="1" parent="lane2" source="A2z6mXwBfs9bLNMqSxDx-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="110" y="345" as="sourcePoint" />
-            <mxPoint x="150" y="85" as="targetPoint" />
+            <mxPoint x="130" y="310" as="targetPoint" />
             <Array as="points">
               <mxPoint x="130" y="345" />
-              <mxPoint x="130" y="320" />
-              <mxPoint x="133" y="320" />
+              <mxPoint x="130" y="310" />
             </Array>
           </mxGeometry>
         </mxCell>
