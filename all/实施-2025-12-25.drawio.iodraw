@@ -87,6 +87,13 @@
         <mxCell id="A2z6mXwBfs9bLNMqSxDx-19" value="需求验收" style="rhombus;whiteSpace=wrap;html=1;fillColor=#bbabcc;" vertex="1" parent="lane3">
           <mxGeometry x="41" y="380" width="100" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="A2z6mXwBfs9bLNMqSxDx-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="lane3" source="A2z6mXwBfs9bLNMqSxDx-20" target="design">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="21" y="85" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="A2z6mXwBfs9bLNMqSxDx-20" value="否决" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffff91;" vertex="1" parent="lane3">
           <mxGeometry x="4.000000000000057" y="200" width="35" height="35" as="geometry" />
         </mxCell>
