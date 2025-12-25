@@ -88,7 +88,7 @@
           <mxGeometry x="60" y="360" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="decision3" value="立项决议评审" style="rhombus;fillColor=#00BCD4;strokeColor=#0097A7;fontColor=#FFFFFF;fontSize=12;" parent="lane2" vertex="1">
-          <mxGeometry x="70" y="440" width="140" height="80" as="geometry" />
+          <mxGeometry x="70" y="450" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="edge7" style="edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;entryX=0.5;entryY=0;endArrow=classic;strokeColor=#333333;" parent="lane2" source="start2" target="process4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -132,7 +132,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nKLSfLPYwRtFnEKUHTs9-3" value="项目评估审查&#xa;1.技术可行性分析与资源配置&#xa;2.公司重点战略匹配度评估&#xa;3.知识产权风险评估与应对策略&#xa;4.目标市场规模、竞争对手分析与技术壁垒&#xa;5.经济分析与预期目标评估" style="rounded=0;fillColor=#7CB342;strokeColor=#558B2F;fontColor=#FFFFFF;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="nKLSfLPYwRtFnEKUHTs9-3" value="（1）项目预算金额超过20 万元的，由总经理审批通过后形成立项决议；&#xa;&#xa;（2）项目预算金额超过50 万元的，由董事长审批通过后形成立项决议；&#xa;&#xa;（3） 项目预算金额＞100 万元的，需履行 “三重一大” 决策审议程序，按《公司 “三重一大” 决策制度实施办法》执行联签审批，经科创委审议通过后形成立项决议。" style="rounded=0;fillColor=#7CB342;strokeColor=#558B2F;fontColor=#FFFFFF;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="280" y="600" width="240" height="100" as="geometry" />
         </mxCell>
       </root>
