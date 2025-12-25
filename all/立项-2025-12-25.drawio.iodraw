@@ -16,7 +16,7 @@
         <mxCell id="start1" value="研发部总体部门需求" style="rounded=1;fillColor=#d4e6f1;strokeColor=#6C3A7C;fontColor=#FFFFFF;fontSize=12;" parent="lane1" vertex="1">
           <mxGeometry x="30" y="30" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="process1" value="项目需求：&#xa;1.战略规划目标&#xa;2.市场需求分析&#xa;3.技术可行性分析&#xa;4.资源优化配置" style="rounded=0;fillColor=#7CB342;strokeColor=#558B2F;fontColor=#FFFFFF;fontSize=11;" parent="lane1" vertex="1">
+        <mxCell id="process1" value="项目需求：&#xa;1.战略规划目标&#xa;2.市场需求分析&#xa;3.技术可行性分析&#xa;4.资源优化配置" style="rounded=0;fillColor=#fcefca;strokeColor=#558B2F;fontColor=#FFFFFF;fontSize=11;" parent="lane1" vertex="1">
           <mxGeometry x="30" y="110" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="decision1" value="研发计划审批" style="rhombus;fillColor=#00BCD4;strokeColor=#0097A7;fontColor=#FFFFFF;fontSize=12;" parent="lane1" vertex="1">
@@ -75,7 +75,7 @@
         <mxCell id="start2" value="研发部或承担部门&#xa;发出立项申请" style="rounded=1;fillColor=#d4e6f1;strokeColor=#6C3A7C;fontColor=#FFFFFF;fontSize=12;" parent="lane2" vertex="1">
           <mxGeometry x="60" y="30" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="process4" value="项目评估审查&#xa;1.技术可行性分析与资源配置&#xa;2.公司重点战略匹配度评估&#xa;3.知识产权风险评估与应对策略&#xa;4.目标市场规模、竞争对手分析与技术壁垒&#xa;5.经济分析与预期目标评估" style="rounded=0;fillColor=#7CB342;strokeColor=#558B2F;fontColor=#FFFFFF;fontSize=10;" parent="lane2" vertex="1">
+        <mxCell id="process4" value="项目评估审查&#xa;1.技术可行性分析与资源配置&#xa;2.公司重点战略匹配度评估&#xa;3.知识产权风险评估与应对策略&#xa;4.目标市场规模、竞争对手分析与技术壁垒&#xa;5.经济分析与预期目标评估" style="rounded=0;fillColor=#fcefca;strokeColor=#558B2F;fontColor=#FFFFFF;fontSize=10;" parent="lane2" vertex="1">
           <mxGeometry x="20" y="110" width="240" height="100" as="geometry" />
         </mxCell>
         <mxCell id="decision2" value="研发部初评" style="rhombus;fillColor=#00BCD4;strokeColor=#0097A7;fontColor=#FFFFFF;fontSize=12;" parent="lane2" vertex="1">
@@ -136,7 +136,7 @@
         <mxCell id="nKLSfLPYwRtFnEKUHTs9-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="lane3" source="process6" target="process7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="process6" value="分配立项研发项目唯一编号RDXX" style="rounded=0;fillColor=#7CB342;strokeColor=#558B2F;fontColor=#FFFFFF;fontSize=11;" parent="lane3" vertex="1">
+        <mxCell id="process6" value="分配立项研发项目唯一编号RDXX" style="rounded=0;fillColor=#fcefca;strokeColor=#558B2F;fontColor=#FFFFFF;fontSize=11;" parent="lane3" vertex="1">
           <mxGeometry x="20" y="120" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="process7" value="承担部门/研发部&#xa;指定项目经理，组建项目组" style="rounded=1;fillColor=#d4e6f1;strokeColor=#6C3A7C;fontColor=#FFFFFF;fontSize=12;" parent="lane3" vertex="1">
@@ -162,7 +162,7 @@
         <mxCell id="nKLSfLPYwRtFnEKUHTs9-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nKLSfLPYwRtFnEKUHTs9-3" target="nKLSfLPYwRtFnEKUHTs9-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nKLSfLPYwRtFnEKUHTs9-3" value="（1）项目预算金额超过20 万元的，&#xa;由总经理审批通过后形成立项决议；&#xa;（2）项目预算金额超过50 万元的，&#xa;由董事长审批通过后形成立项决议；&#xa;（3） 项目预算金额＞100 万元的，&#xa;需履行 “三重一大” 决策审议程序，&#xa;经科创委审议通过后形成立项决议。" style="rounded=0;fillColor=#7CB342;strokeColor=#558B2F;fontColor=#FFFFFF;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="nKLSfLPYwRtFnEKUHTs9-3" value="（1）项目预算金额超过20 万元的，&#xa;由总经理审批通过后形成立项决议；&#xa;（2）项目预算金额超过50 万元的，&#xa;由董事长审批通过后形成立项决议；&#xa;（3） 项目预算金额＞100 万元的，&#xa;需履行 “三重一大” 决策审议程序，&#xa;经科创委审议通过后形成立项决议。" style="rounded=0;fillColor=#fcefca;strokeColor=#558B2F;fontColor=#FFFFFF;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="300" y="600" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="nKLSfLPYwRtFnEKUHTs9-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="nKLSfLPYwRtFnEKUHTs9-5" target="process5" edge="1">
