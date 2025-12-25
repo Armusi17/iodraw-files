@@ -11,7 +11,7 @@
           <mxGeometry x="10" y="60" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lane2" value="需求分析" style="swimlane;startSize=40;fontSize=12;fontStyle=1;fillColor=#488cdc;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="160" y="40" width="120" height="520" as="geometry" />
+          <mxGeometry x="160" y="40" width="120" height="550" as="geometry" />
         </mxCell>
         <mxCell id="req_survey" value="需求调研" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d4e6f1;" parent="lane2" vertex="1">
           <mxGeometry x="10" y="60" width="100" height="50" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="10" y="200" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lane3" value="方案设计及评审" style="swimlane;startSize=40;fontSize=12;fontStyle=1;fillColor=#488cdc;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="280" y="40" width="120" height="520" as="geometry" />
+          <mxGeometry x="280" y="40" width="120" height="550" as="geometry" />
         </mxCell>
         <mxCell id="design" value="技术方案设计" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d4e6f1;" parent="lane3" vertex="1">
           <mxGeometry x="10" y="60" width="100" height="50" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="10" y="235" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lane4" value="研发实施" style="swimlane;startSize=40;fontSize=12;fontStyle=1;fillColor=#488cdc;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="400" y="40" width="120" height="520" as="geometry" />
+          <mxGeometry x="400" y="40" width="120" height="550" as="geometry" />
         </mxCell>
         <mxCell id="dev_start" value="组建项目组" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d4e6f1;" parent="lane4" vertex="1">
           <mxGeometry x="10" y="60" width="100" height="50" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry x="10" y="270" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lane5" value="测试验证" style="swimlane;startSize=40;fontSize=12;fontStyle=1;fillColor=#488cdc;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="520" y="40" width="120" height="520" as="geometry" />
+          <mxGeometry x="520" y="40" width="120" height="550" as="geometry" />
         </mxCell>
         <mxCell id="test_internal" value="内部自测" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d4e6f1;" parent="lane5" vertex="1">
           <mxGeometry x="10" y="130" width="100" height="50" as="geometry" />
