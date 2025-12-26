@@ -66,9 +66,6 @@
         <mxCell id="A2z6mXwBfs9bLNMqSxDx-7" value="否决" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffff91;" vertex="1" parent="lane2">
           <mxGeometry x="4.000000000000057" y="190" width="35" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="change_mgmt" value="项目变更管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cbad;" parent="lane2" vertex="1">
-          <mxGeometry x="30" y="540" width="690" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="lane3" value="方案设计及评审" style="swimlane;startSize=40;fontSize=12;fontStyle=1;fillColor=#488cdc;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="290" y="40" width="180" height="620" as="geometry" />
         </mxCell>
@@ -124,7 +121,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lane4" value="研发实施" style="swimlane;startSize=40;fontSize=12;fontStyle=1;fillColor=#488cdc;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="470" y="40" width="200" height="620" as="geometry" />
+          <mxGeometry x="470" y="40" width="357" height="620" as="geometry" />
         </mxCell>
         <mxCell id="dev_impl" value="按方案研发" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d4e6f1;" parent="lane4" vertex="1">
           <mxGeometry x="50" y="60" width="100" height="50" as="geometry" />
@@ -175,6 +172,9 @@
         </mxCell>
         <mxCell id="A2z6mXwBfs9bLNMqSxDx-40" value="否决" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffff91;" vertex="1" parent="lane4">
           <mxGeometry x="10.000000000000057" y="260" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="change_mgmt" value="项目变更管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cbad;" parent="lane4" vertex="1">
+          <mxGeometry x="-333" y="540" width="690" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lane5" value="测试验证" style="swimlane;startSize=40;fontSize=12;fontStyle=1;fillColor=#488cdc;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="670" y="40" width="180" height="620" as="geometry" />
