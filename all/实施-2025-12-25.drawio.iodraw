@@ -88,11 +88,6 @@
         <mxCell id="e17" style="edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;entryX=0.5;entryY=0;endArrow=classic;" parent="lane6" source="final_verify" target="end" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e4" style="edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;endArrow=classic;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="A2z6mXwBfs9bLNMqSxDx-11" target="design" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270" y="265" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="e14" style="edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;entryX=0;entryY=0.5;endArrow=classic;" parent="1" source="test_review" target="result_prep" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -230,15 +225,11 @@
         <mxCell id="A2z6mXwBfs9bLNMqSxDx-16" value="设计评审" style="rhombus;whiteSpace=wrap;html=1;fillColor=#bbabcc;" vertex="1" parent="1">
           <mxGeometry x="-333" y="-20" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="A2z6mXwBfs9bLNMqSxDx-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="A2z6mXwBfs9bLNMqSxDx-2" target="req_analysis">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="A2z6mXwBfs9bLNMqSxDx-42" value="设计验收" style="rhombus;whiteSpace=wrap;html=1;fillColor=#bbabcc;" vertex="1" parent="1">
+          <mxGeometry x="-323" y="205" width="100" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="A2z6mXwBfs9bLNMqSxDx-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="A2z6mXwBfs9bLNMqSxDx-20" target="design">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="311" y="125" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="A2z6mXwBfs9bLNMqSxDx-43" value="设计评审" style="rhombus;whiteSpace=wrap;html=1;fillColor=#bbabcc;" vertex="1" parent="1">
+          <mxGeometry x="-323" y="-10" width="100" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
