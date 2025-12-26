@@ -248,7 +248,7 @@
             <mxPoint x="32" y="332.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A2z6mXwBfs9bLNMqSxDx-60" value="转化前" style="rhombus;whiteSpace=wrap;html=1;fillColor=#bbabcc;" vertex="1" parent="lane6">
+        <mxCell id="A2z6mXwBfs9bLNMqSxDx-60" value="转化前验收" style="rhombus;whiteSpace=wrap;html=1;fillColor=#bbabcc;" vertex="1" parent="lane6">
           <mxGeometry x="50" y="245" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="A2z6mXwBfs9bLNMqSxDx-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lane6" source="A2z6mXwBfs9bLNMqSxDx-62">
@@ -354,6 +354,9 @@
         </mxCell>
         <mxCell id="A2z6mXwBfs9bLNMqSxDx-73" value="设计蓝图" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d4e7d3;dashed=1;" vertex="1" parent="A2z6mXwBfs9bLNMqSxDx-69">
           <mxGeometry x="350" y="80" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="A2z6mXwBfs9bLNMqSxDx-74" value="技术设计方案" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d4e7d3;" vertex="1" parent="A2z6mXwBfs9bLNMqSxDx-69">
+          <mxGeometry x="550" y="20" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
