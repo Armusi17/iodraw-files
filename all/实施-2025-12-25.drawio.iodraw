@@ -11,7 +11,7 @@
           <mxGeometry x="15" y="60" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lane2" value="需求分析" style="swimlane;startSize=40;fontSize=12;fontStyle=1;fillColor=#488cdc;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="110" y="40" width="180" height="620" as="geometry" />
+          <mxGeometry x="110" y="40" width="720" height="620" as="geometry" />
         </mxCell>
         <mxCell id="A2z6mXwBfs9bLNMqSxDx-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="lane2" source="A2z6mXwBfs9bLNMqSxDx-2" target="req_analysis">
           <mxGeometry relative="1" as="geometry" />
@@ -66,14 +66,14 @@
         <mxCell id="A2z6mXwBfs9bLNMqSxDx-7" value="否决" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffff91;" vertex="1" parent="lane2">
           <mxGeometry x="4.000000000000057" y="190" width="35" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="change_mgmt" value="项目变更管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cbad;" parent="lane2" vertex="1">
+          <mxGeometry x="30" y="540" width="690" height="50" as="geometry" />
+        </mxCell>
         <mxCell id="lane3" value="方案设计及评审" style="swimlane;startSize=40;fontSize=12;fontStyle=1;fillColor=#488cdc;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="290" y="40" width="180" height="620" as="geometry" />
         </mxCell>
         <mxCell id="design" value="技术方案设计" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d4e6f1;" parent="lane3" vertex="1">
           <mxGeometry x="41" y="60" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="change_mgmt" value="项目变更管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cbad;" parent="lane3" vertex="1">
-          <mxGeometry x="15" y="480" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="A2z6mXwBfs9bLNMqSxDx-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lane3" source="A2z6mXwBfs9bLNMqSxDx-22" target="A2z6mXwBfs9bLNMqSxDx-19">
           <mxGeometry relative="1" as="geometry" />
