@@ -367,6 +367,12 @@
         <mxCell id="A2z6mXwBfs9bLNMqSxDx-77" value="验收评审记录表" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d4e7d3;dashed=1;" vertex="1" parent="A2z6mXwBfs9bLNMqSxDx-69">
           <mxGeometry x="176" y="80" width="90" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="A2z6mXwBfs9bLNMqSxDx-78" value="验收评审记录表" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d4e7d3;" vertex="1" parent="A2z6mXwBfs9bLNMqSxDx-69">
+          <mxGeometry x="500" y="80" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="A2z6mXwBfs9bLNMqSxDx-79" value="验收评审记录表" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d4e7d3;" vertex="1" parent="1">
+          <mxGeometry x="490" y="750" width="90" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
