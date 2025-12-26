@@ -222,11 +222,6 @@
             <mxPoint x="270" y="265" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e14" style="edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;entryX=0;entryY=0.5;endArrow=classic;" parent="1" target="result_prep" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="810" y="264.9999999999999" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="legend" value="图例" style="text;fontSize=11;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="810" width="40" height="20" as="geometry" />
         </mxCell>
