@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="page-1">
-    <mxGraphModel dx="2074" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2620" dy="1045" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -71,9 +71,6 @@
         </mxCell>
         <mxCell id="design" value="技术方案设计" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d4e6f1;" parent="lane3" vertex="1">
           <mxGeometry x="41" y="60" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="change_mgmt" value="项目变更管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cbad;" parent="lane3" vertex="1">
-          <mxGeometry x="15" y="480" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="A2z6mXwBfs9bLNMqSxDx-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lane3" source="A2z6mXwBfs9bLNMqSxDx-22" target="A2z6mXwBfs9bLNMqSxDx-19">
           <mxGeometry relative="1" as="geometry" />
@@ -214,16 +211,6 @@
             <mxPoint x="141" y="125" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A2z6mXwBfs9bLNMqSxDx-37" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="A2z6mXwBfs9bLNMqSxDx-36" target="test_internal">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="617" y="455" as="sourcePoint" />
-            <mxPoint x="637" y="420" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="637" y="515" />
-              <mxPoint x="637" y="130" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="A2z6mXwBfs9bLNMqSxDx-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="A2z6mXwBfs9bLNMqSxDx-36" target="A2z6mXwBfs9bLNMqSxDx-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -254,12 +241,8 @@
         <mxCell id="A2z6mXwBfs9bLNMqSxDx-40" value="否决" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffff91;" vertex="1" parent="1">
           <mxGeometry x="-300" y="280" width="35" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="A2z6mXwBfs9bLNMqSxDx-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="A2z6mXwBfs9bLNMqSxDx-40" target="dev_complete">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="500" y="265" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="change_mgmt" value="项目变更管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cbad;" parent="1" vertex="1">
+          <mxGeometry x="650" y="720" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
