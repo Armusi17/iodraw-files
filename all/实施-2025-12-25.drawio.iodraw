@@ -364,14 +364,17 @@
         <mxCell id="A2z6mXwBfs9bLNMqSxDx-76" value="验收评审记录表" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d4e7d3;" vertex="1" parent="A2z6mXwBfs9bLNMqSxDx-69">
           <mxGeometry x="930" y="20" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="A2z6mXwBfs9bLNMqSxDx-77" value="验收评审记录表" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d4e7d3;dashed=1;" vertex="1" parent="A2z6mXwBfs9bLNMqSxDx-69">
-          <mxGeometry x="150" y="80" width="90" height="50" as="geometry" />
+        <mxCell id="A2z6mXwBfs9bLNMqSxDx-77" value="阶段性&lt;div&gt;评审报告&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d4e7d3;dashed=1;" vertex="1" parent="A2z6mXwBfs9bLNMqSxDx-69">
+          <mxGeometry x="150" y="80" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="A2z6mXwBfs9bLNMqSxDx-78" value="验收评审记录表" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d4e7d3;" vertex="1" parent="A2z6mXwBfs9bLNMqSxDx-69">
           <mxGeometry x="510" y="80" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="A2z6mXwBfs9bLNMqSxDx-79" value="验收评审记录表" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d4e7d3;" vertex="1" parent="A2z6mXwBfs9bLNMqSxDx-69">
           <mxGeometry x="600" y="80" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="A2z6mXwBfs9bLNMqSxDx-80" value="验收评审记录表" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d4e7d3;dashed=1;" vertex="1" parent="A2z6mXwBfs9bLNMqSxDx-69">
+          <mxGeometry x="230" y="80" width="60" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
