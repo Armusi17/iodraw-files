@@ -121,7 +121,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lane4" value="研发实施" style="swimlane;startSize=40;fontSize=12;fontStyle=1;fillColor=#488cdc;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="470" y="40" width="357" height="620" as="geometry" />
+          <mxGeometry x="470" y="40" width="200" height="620" as="geometry" />
         </mxCell>
         <mxCell id="dev_impl" value="按方案研发" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d4e6f1;" parent="lane4" vertex="1">
           <mxGeometry x="50" y="60" width="100" height="50" as="geometry" />
@@ -245,21 +245,20 @@
         <mxCell id="feasibility" value="可行性评估" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d4e6f1;" parent="lane6" vertex="1">
           <mxGeometry x="50" y="130" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="final_verify" value="转化前验收" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;" parent="lane6" vertex="1">
+          <mxGeometry x="50" y="200" width="100" height="50" as="geometry" />
+        </mxCell>
         <mxCell id="end" value="项目完成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#c6e0b4;" parent="lane6" vertex="1">
           <mxGeometry x="50" y="270" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="e15" style="edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;entryX=0.5;entryY=0;endArrow=classic;" parent="lane6" source="result_prep" target="feasibility" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e16" style="edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;entryX=0.5;entryY=0;endArrow=classic;" parent="lane6" source="feasibility" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="100" y="199.9999999999999" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="e16" style="edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;entryX=0.5;entryY=0;endArrow=classic;" parent="lane6" source="feasibility" target="final_verify" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e17" style="edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;entryX=0.5;entryY=0;endArrow=classic;" parent="lane6" target="end" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="100" y="249.9999999999999" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="e17" style="edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;entryX=0.5;entryY=0;endArrow=classic;" parent="lane6" source="final_verify" target="end" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e4" style="edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;endArrow=classic;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="A2z6mXwBfs9bLNMqSxDx-11" target="design" edge="1">
           <mxGeometry relative="1" as="geometry">
