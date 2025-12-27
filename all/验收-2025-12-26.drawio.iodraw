@@ -34,7 +34,7 @@
           <mxGeometry x="30" y="240" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="meeting" value="组织验收会议&#xa;（5个工作日内）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#d4e6f1;" parent="lane2" vertex="1">
-          <mxGeometry x="10" y="360" width="220" height="60" as="geometry" />
+          <mxGeometry x="10" y="370" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="decision2" value="验收结论" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;fillColor=#bbabcc;" parent="lane2" vertex="1">
           <mxGeometry x="30" y="465" width="180" height="80" as="geometry" />
@@ -97,7 +97,7 @@
         <mxCell id="e9" value="有条件通过" style="edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;entryX=0.5;entryY=1;endArrow=classic;fontSize=10;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" parent="1" source="decision2" target="E1oOTfygmo9rwdjZ4kA6-2" edge="1">
           <mxGeometry x="-0.2761" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="150" y="530" />
+              <mxPoint x="150" y="545" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
