@@ -10,19 +10,19 @@
         <mxCell id="start" value="项目组编写验收申请书及材料" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#d4e6f1;" parent="lane1" vertex="1">
           <mxGeometry x="10" y="70" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="submit" value="提交至研发部" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;" parent="lane1" vertex="1">
+        <mxCell id="submit" value="提交至研发部" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#d4e6f1;" parent="lane1" vertex="1">
           <mxGeometry x="10" y="150" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lane2" value="验收审批" style="swimlane;startSize=40;fontSize=12;fontStyle=1;fillColor=#488cdc;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="280" y="40" width="260" height="650" as="geometry" />
         </mxCell>
-        <mxCell id="check" value="研发部形式审查" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;" parent="lane2" vertex="1">
+        <mxCell id="check" value="研发部形式审查" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#d4e6f1;" parent="lane2" vertex="1">
           <mxGeometry x="10" y="150" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="decision1" value="材料是否齐全？" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;" parent="lane2" vertex="1">
           <mxGeometry x="30" y="240" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="meeting" value="组织验收会议&#xa;（5个工作日内）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;" parent="lane2" vertex="1">
+        <mxCell id="meeting" value="组织验收会议&#xa;（5个工作日内）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#d4e6f1;" parent="lane2" vertex="1">
           <mxGeometry x="10" y="360" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="decision2" value="验收结论" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;" parent="lane2" vertex="1">
@@ -31,16 +31,16 @@
         <mxCell id="lane3" value="项目结项" style="swimlane;startSize=40;fontSize=12;fontStyle=1;fillColor=#488cdc;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="540" y="40" width="240" height="650" as="geometry" />
         </mxCell>
-        <mxCell id="transfer" value="成果移交&#xa;（10个工作日内）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;" parent="lane3" vertex="1">
+        <mxCell id="transfer" value="成果移交&#xa;（10个工作日内）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#d4e6f1;" parent="lane3" vertex="1">
           <mxGeometry x="10" y="150" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="report" value="编制结项验收报告" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;" parent="lane3" vertex="1">
+        <mxCell id="report" value="编制结项验收报告" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#d4e6f1;" parent="lane3" vertex="1">
           <mxGeometry x="10" y="250" width="220" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="archive" value="项目文档归档" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;" parent="lane3" vertex="1">
+        <mxCell id="archive" value="项目文档归档" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#d4e6f1;" parent="lane3" vertex="1">
           <mxGeometry x="10" y="340" width="220" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="review" value="项目复盘&#xa;（结项后1个月内）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;" parent="lane3" vertex="1">
+        <mxCell id="review" value="项目复盘&#xa;（结项后1个月内）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#d4e6f1;" parent="lane3" vertex="1">
           <mxGeometry x="10" y="430" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="end" value="项目关闭" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#d4e6f1;" parent="lane3" vertex="1">
