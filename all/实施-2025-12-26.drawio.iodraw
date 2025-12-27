@@ -388,8 +388,8 @@
         <mxCell id="5Jv2arjgyUOvgVwPdtOZ-1" value="技术类成果" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d4e7d3;" vertex="1" parent="1">
           <mxGeometry x="-380" y="810" width="90" height="37.5" as="geometry" />
         </mxCell>
-        <mxCell id="5Jv2arjgyUOvgVwPdtOZ-2" value="技术类成果" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d4e7d3;" vertex="1" parent="1">
-          <mxGeometry x="-370" y="820" width="90" height="37.5" as="geometry" />
+        <mxCell id="5Jv2arjgyUOvgVwPdtOZ-3" value="验收评审记录表" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d4e7d3;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="810" width="60" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
