@@ -760,6 +760,9 @@
         <mxCell id="jTptyi_qijYkCfReXR6d-76" value="有形载体成果" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#C6C5E8;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="130" y="1110" width="80" height="42.5" as="geometry" />
         </mxCell>
+        <mxCell id="jTptyi_qijYkCfReXR6d-77" value="知识产权类" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#E8C3DF;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1110" width="80" height="42.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
