@@ -754,11 +754,11 @@
         <mxCell id="jTptyi_qijYkCfReXR6d-74" value="非必要&lt;div&gt;项目档案&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d4e7d3;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="1110" width="90" height="42.5" as="geometry" />
         </mxCell>
-        <mxCell id="jTptyi_qijYkCfReXR6d-75" value="知识产权类" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#E8C3DF;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="jTptyi_qijYkCfReXR6d-75" value="知识产权成果" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#E8C3DF;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="30" y="1110" width="80" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="jTptyi_qijYkCfReXR6d-76" value="知识产权类" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#E8C3DF;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1120" width="80" height="42.5" as="geometry" />
+          <mxGeometry x="140" y="1110" width="80" height="42.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
