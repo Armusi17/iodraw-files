@@ -748,6 +748,12 @@
         <mxCell id="jTptyi_qijYkCfReXR6d-72" value="&lt;font&gt;研发项目&lt;/font&gt;&lt;div&gt;&lt;font&gt;立项申请表&lt;/font&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="jTptyi_qijYkCfReXR6d-68">
           <mxGeometry x="67.5" y="30" width="80" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="jTptyi_qijYkCfReXR6d-73" value="&lt;font&gt;研发项目&lt;/font&gt;&lt;div&gt;&lt;font&gt;立项申请表&lt;/font&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="1102.5" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jTptyi_qijYkCfReXR6d-74" value="阶段性&lt;div&gt;评审报告&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d4e7d3;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="750" width="60" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
