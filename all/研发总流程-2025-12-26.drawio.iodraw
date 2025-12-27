@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="page-1">
-    <mxGraphModel dx="2876" dy="1194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4924" dy="2389" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -334,9 +334,6 @@
         <mxCell id="A2z6mXwBfs9bLNMqSxDx-67" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;阶段性&lt;/font&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;评审/验收&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#b7a7c7;" parent="1" vertex="1">
           <mxGeometry x="80" y="812.5" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="A2z6mXwBfs9bLNMqSxDx-69" value="输出成果、文档" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#488cdc;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-20" y="660" width="1810" height="140" as="geometry" />
-        </mxCell>
         <mxCell id="ZgODB8xKO0AIbyxhGbfr-1" value="验收申请" style="swimlane;startSize=40;fontSize=12;fontStyle=1;fillColor=#488cdc;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1050" y="40" width="240" height="760" as="geometry" />
         </mxCell>
@@ -514,7 +511,7 @@
           <mxGeometry x="-740" y="40" width="220" height="760" as="geometry" />
         </mxCell>
         <mxCell id="jTptyi_qijYkCfReXR6d-16" value="立项流程" style="swimlane;fontStyle=1;fontSize=14;fillColor=#4A90E2;strokeColor=#2E5C8A;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-520" y="40" width="500" height="760" as="geometry" />
+          <mxGeometry x="-520" y="40" width="2310" height="760" as="geometry" />
         </mxCell>
         <mxCell id="jTptyi_qijYkCfReXR6d-2" value="研发部总体部门需求" style="rounded=1;fillColor=#d4e6f1;strokeColor=#6C3A7C;fontColor=default;fontSize=12;" vertex="1" parent="jTptyi_qijYkCfReXR6d-16">
           <mxGeometry x="-185" y="60" width="160" height="50" as="geometry" />
@@ -674,7 +671,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jTptyi_qijYkCfReXR6d-51" value="输出档案、成果" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#498edf;" vertex="1" parent="jTptyi_qijYkCfReXR6d-16">
-          <mxGeometry x="-220" y="620" width="720" height="140" as="geometry" />
+          <mxGeometry x="-220" y="620" width="2530" height="140" as="geometry" />
         </mxCell>
         <mxCell id="jTptyi_qijYkCfReXR6d-31" value="&lt;font&gt;研发项目&lt;/font&gt;&lt;div&gt;&lt;font&gt;立项决议书&lt;/font&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="jTptyi_qijYkCfReXR6d-51">
           <mxGeometry x="387.5" y="30" width="80" height="50" as="geometry" />
@@ -696,6 +693,48 @@
         </mxCell>
         <mxCell id="jTptyi_qijYkCfReXR6d-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jTptyi_qijYkCfReXR6d-37" target="start">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jTptyi_qijYkCfReXR6d-54" value="需求说明书" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d4e7d3;" vertex="1" parent="1">
+          <mxGeometry x="156" y="680" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jTptyi_qijYkCfReXR6d-55" value="技术方案设计书" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d4e7d3;" vertex="1" parent="1">
+          <mxGeometry x="310" y="680" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jTptyi_qijYkCfReXR6d-56" value="研发路径蓝图" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d4e7d3;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="680" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jTptyi_qijYkCfReXR6d-57" value="项目周进度报告" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d4e7d3;" vertex="1" parent="1">
+          <mxGeometry x="530" y="680" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jTptyi_qijYkCfReXR6d-58" value="测试报告" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d4e7d3;" vertex="1" parent="1">
+          <mxGeometry x="720" y="680" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jTptyi_qijYkCfReXR6d-59" value="验收评审记录表" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d4e7d3;" vertex="1" parent="1">
+          <mxGeometry x="910" y="680" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jTptyi_qijYkCfReXR6d-60" value="阶段性&lt;div&gt;评审报告&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d4e7d3;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="740" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jTptyi_qijYkCfReXR6d-61" value="阶段性&lt;div&gt;评审报告&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d4e7d3;" vertex="1" parent="1">
+          <mxGeometry x="490" y="740" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jTptyi_qijYkCfReXR6d-62" value="验收评审记录表" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d4e7d3;" vertex="1" parent="1">
+          <mxGeometry x="580" y="740" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jTptyi_qijYkCfReXR6d-63" value="验收评审记录表" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d4e7d3;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="740" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jTptyi_qijYkCfReXR6d-64" value="阶段性&lt;div&gt;评审报告&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d4e7d3;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="740" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jTptyi_qijYkCfReXR6d-65" value="阶段性&lt;div&gt;评审报告&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d4e7d3;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="687" y="740" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jTptyi_qijYkCfReXR6d-66" value="验收评审记录表" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d4e7d3;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="767" y="740" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jTptyi_qijYkCfReXR6d-67" value="研发项目&lt;div&gt;变更申请表&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d4e7d3;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="740" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
