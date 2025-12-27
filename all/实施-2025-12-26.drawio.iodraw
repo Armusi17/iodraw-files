@@ -385,6 +385,9 @@
         <mxCell id="A2z6mXwBfs9bLNMqSxDx-85" value="研发项目&lt;div&gt;变更申请表&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d4e7d3;dashed=1;" parent="A2z6mXwBfs9bLNMqSxDx-69" vertex="1">
           <mxGeometry x="930" y="80" width="90" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="5Jv2arjgyUOvgVwPdtOZ-1" value="项目任务计划书" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d4e7d3;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="802.5" width="90" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
