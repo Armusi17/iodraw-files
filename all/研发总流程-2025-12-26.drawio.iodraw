@@ -505,10 +505,10 @@
           <mxGeometry x="1120" y="710" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jTptyi_qijYkCfReXR6d-1" value="研发计划" style="swimlane;fontStyle=1;fontSize=14;fillColor=#4A90E2;strokeColor=#2E5C8A;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-740" y="40" width="220" height="760" as="geometry" />
+          <mxGeometry x="-610" y="40" width="220" height="760" as="geometry" />
         </mxCell>
         <mxCell id="jTptyi_qijYkCfReXR6d-16" value="立项流程" style="swimlane;fontStyle=1;fontSize=14;fillColor=#4A90E2;strokeColor=#2E5C8A;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-520" y="40" width="280" height="760" as="geometry" />
+          <mxGeometry x="-390" y="40" width="280" height="760" as="geometry" />
         </mxCell>
         <mxCell id="jTptyi_qijYkCfReXR6d-2" value="研发部总体部门需求" style="rounded=1;fillColor=#d4e6f1;strokeColor=#6C3A7C;fontColor=default;fontSize=12;" vertex="1" parent="jTptyi_qijYkCfReXR6d-16">
           <mxGeometry x="-185" y="60" width="160" height="50" as="geometry" />
@@ -683,7 +683,7 @@
           <mxGeometry x="67.5" y="30" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jTptyi_qijYkCfReXR6d-32" value="项目启动" style="swimlane;fontStyle=1;fontSize=14;fillColor=#4A90E2;strokeColor=#2E5C8A;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="40" width="220" height="760" as="geometry" />
+          <mxGeometry x="-110" y="40" width="220" height="760" as="geometry" />
         </mxCell>
         <mxCell id="start" value="项目启动会" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d4e6f1;" parent="jTptyi_qijYkCfReXR6d-32" vertex="1">
           <mxGeometry x="65" y="362.5" width="100" height="50" as="geometry" />
