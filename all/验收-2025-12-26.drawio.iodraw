@@ -18,7 +18,7 @@
             <mxPoint x="110" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E1oOTfygmo9rwdjZ4kA6-2" value="项目整改" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#d4e6f1;" vertex="1" parent="lane1">
+        <mxCell id="E1oOTfygmo9rwdjZ4kA6-2" value="项目少量整改" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#d4e6f1;" vertex="1" parent="lane1">
           <mxGeometry x="30" y="380" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lane2" value="验收审批" style="swimlane;startSize=40;fontSize=12;fontStyle=1;fillColor=#488cdc;fontColor=#FFFFFF;" parent="1" vertex="1">
