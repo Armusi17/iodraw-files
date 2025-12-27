@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vz8UhGWsQPawkfOS22OE-35" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="40" y="790" width="220" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="lane1" value="研发计划" style="swimlane;fontStyle=1;fontSize=14;fillColor=#4A90E2;strokeColor=#2E5C8A;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="220" height="750" as="geometry" />
         </mxCell>
@@ -119,7 +116,7 @@
           <mxGeometry x="167.5" y="775" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lane3" value="项目启动" style="swimlane;fontStyle=1;fontSize=14;fillColor=#4A90E2;strokeColor=#2E5C8A;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="540" y="40" width="220" height="850" as="geometry" />
+          <mxGeometry x="540" y="40" width="220" height="920" as="geometry" />
         </mxCell>
         <mxCell id="nKLSfLPYwRtFnEKUHTs9-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=default;" parent="lane3" source="start3" target="process6" edge="1">
           <mxGeometry relative="1" as="geometry" />
