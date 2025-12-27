@@ -33,8 +33,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E1oOTfygmo9rwdjZ4kA6-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.128;entryY=1.069;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="lane1" source="E1oOTfygmo9rwdjZ4kA6-4" target="submit">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="E1oOTfygmo9rwdjZ4kA6-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="lane1" source="E1oOTfygmo9rwdjZ4kA6-4" target="submit">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="10" y="585" />
+              <mxPoint x="10" y="204" />
+              <mxPoint x="110" y="204" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="lane2" value="验收审批" style="swimlane;startSize=40;fontSize=12;fontStyle=1;fillColor=#488cdc;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="280" y="40" width="260" height="650" as="geometry" />
