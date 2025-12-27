@@ -690,7 +690,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jTptyi_qijYkCfReXR6d-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=default;" edge="1" parent="1" target="jTptyi_qijYkCfReXR6d-46">
+        <mxCell id="jTptyi_qijYkCfReXR6d-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=default;" edge="1" parent="1" source="jTptyi_qijYkCfReXR6d-23" target="jTptyi_qijYkCfReXR6d-46">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-380" y="700" as="sourcePoint" />
           </mxGeometry>
@@ -728,11 +728,6 @@
         </mxCell>
         <mxCell id="jTptyi_qijYkCfReXR6d-48" value="批准立项" style="ellipse;fillColor=#FFFF91;strokeColor=#F57C00;fontColor=default;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="-320" y="730" width="60" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="jTptyi_qijYkCfReXR6d-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=default;" edge="1" parent="1" source="jTptyi_qijYkCfReXR6d-23">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-380" y="600" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="jTptyi_qijYkCfReXR6d-50" value="&lt;font&gt;研发项目&lt;/font&gt;&lt;div&gt;&lt;font&gt;立项申请表&lt;/font&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-672.5" y="815" width="80" height="50" as="geometry" />
