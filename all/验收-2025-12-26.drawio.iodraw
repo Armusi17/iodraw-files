@@ -28,7 +28,7 @@
         <mxCell id="decision2" value="验收结论" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;" parent="lane2" vertex="1">
           <mxGeometry x="30" y="460" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lane3" value="项目结项" style="swimlane;startSize=40;fontSize=12;fontStyle=1;" parent="1" vertex="1">
+        <mxCell id="lane3" value="项目结项" style="swimlane;startSize=40;fontSize=12;fontStyle=1;fillColor=#488cdc;" parent="1" vertex="1">
           <mxGeometry x="540" y="40" width="240" height="520" as="geometry" />
         </mxCell>
         <mxCell id="transfer" value="成果移交&#xa;（10个工作日内）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;" parent="lane3" vertex="1">
