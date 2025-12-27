@@ -45,7 +45,7 @@
         <mxCell id="E1oOTfygmo9rwdjZ4kA6-21" value="输出成果、文档" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#488cdc;fontColor=#FFFFFF;" vertex="1" parent="lane1">
           <mxGeometry y="650" width="740" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="E1oOTfygmo9rwdjZ4kA6-22" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d4e7d3;" vertex="1" parent="E1oOTfygmo9rwdjZ4kA6-21">
+        <mxCell id="E1oOTfygmo9rwdjZ4kA6-22" value="研发项目&lt;div&gt;验收申请书&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d4e7d3;" vertex="1" parent="E1oOTfygmo9rwdjZ4kA6-21">
           <mxGeometry x="70" y="20" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lane2" value="验收审批" style="swimlane;startSize=40;fontSize=12;fontStyle=1;fillColor=#488cdc;fontColor=#FFFFFF;" parent="1" vertex="1">
