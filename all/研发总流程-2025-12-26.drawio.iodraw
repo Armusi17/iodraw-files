@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="page-1">
-    <mxGraphModel dx="1783" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3434" dy="1520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -276,16 +276,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="legend" value="图例" style="text;fontSize=11;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="-600" y="1090" width="40" height="20" as="geometry" />
+          <mxGeometry x="-610" y="900" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="legend_exec" value="执行活动" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d4e6f1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="-600" y="1110" width="80" height="25" as="geometry" />
+          <mxGeometry x="-610" y="920" width="80" height="25" as="geometry" />
         </mxCell>
         <mxCell id="legend_change" value="变更管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cbad;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="-380" y="1110" width="80" height="25" as="geometry" />
+          <mxGeometry x="-390" y="920" width="80" height="25" as="geometry" />
         </mxCell>
         <mxCell id="legend_end" value="项目完成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#c6e0b4;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="-280" y="1110" width="80" height="25" as="geometry" />
+          <mxGeometry x="-290" y="920" width="80" height="25" as="geometry" />
         </mxCell>
         <mxCell id="e1" style="edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;entryX=0;entryY=0.5;endArrow=classic;exitDx=0;exitDy=0;" parent="1" source="start" target="req_survey" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -329,7 +329,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="A2z6mXwBfs9bLNMqSxDx-67" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;阶段性&lt;/font&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;评审/验收&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#b7a7c7;" parent="1" vertex="1">
-          <mxGeometry x="-500" y="1102.5" width="100" height="40" as="geometry" />
+          <mxGeometry x="-510" y="912.5" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZgODB8xKO0AIbyxhGbfr-1" value="验收申请" style="swimlane;startSize=40;fontSize=12;fontStyle=1;fillColor=#488cdc;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1050" y="40" width="240" height="760" as="geometry" />
@@ -788,19 +788,19 @@
           <mxGeometry x="2092.5" y="20" width="80" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="jTptyi_qijYkCfReXR6d-73" value="技术资料成果" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="1110" width="80" height="42.5" as="geometry" />
+          <mxGeometry x="-190" y="920" width="80" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="jTptyi_qijYkCfReXR6d-74" value="非必要&lt;div&gt;技术资料成果&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d4e7d3;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="1110" width="90" height="42.5" as="geometry" />
+          <mxGeometry x="-90" y="920" width="90" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="jTptyi_qijYkCfReXR6d-75" value="知识产权成果" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#E8C3DF;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="30" y="1110" width="80" height="42.5" as="geometry" />
+          <mxGeometry x="20" y="920" width="80" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="jTptyi_qijYkCfReXR6d-76" value="有形载体成果" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#C6C5E8;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="130" y="1110" width="80" height="42.5" as="geometry" />
+          <mxGeometry x="120" y="920" width="80" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="jTptyi_qijYkCfReXR6d-77" value="其他成果" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#E6E8CE;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="230" y="1110" width="80" height="42.5" as="geometry" />
+          <mxGeometry x="220" y="920" width="80" height="42.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
