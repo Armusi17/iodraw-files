@@ -26,7 +26,7 @@
           <mxGeometry x="10" y="360" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="decision2" value="验收结论" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;fillColor=#bbabcc;" parent="lane2" vertex="1">
-          <mxGeometry x="30" y="460" width="180" height="80" as="geometry" />
+          <mxGeometry x="30" y="480" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lane3" value="项目结项" style="swimlane;startSize=40;fontSize=12;fontStyle=1;fillColor=#488cdc;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="540" y="40" width="240" height="650" as="geometry" />
