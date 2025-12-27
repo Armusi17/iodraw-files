@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="lane1" value="验收申请" style="swimlane;startSize=40;fontSize=12;fontStyle=1;fillColor=#488cdc;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="50" y="30" width="240" height="650" as="geometry" />
+          <mxGeometry x="40" y="40" width="240" height="650" as="geometry" />
         </mxCell>
         <mxCell id="start" value="项目组编写验收申请书及材料" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#d4e6f1;" parent="lane1" vertex="1">
           <mxGeometry x="10" y="70" width="200" height="50" as="geometry" />
@@ -13,7 +13,7 @@
         <mxCell id="submit" value="提交至研发部" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#d4e6f1;" parent="lane1" vertex="1">
           <mxGeometry x="10" y="150" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="E1oOTfygmo9rwdjZ4kA6-2" value="提交至研发部" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#d4e6f1;" vertex="1" parent="lane1">
+        <mxCell id="E1oOTfygmo9rwdjZ4kA6-2" value="项目整改" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#d4e6f1;" vertex="1" parent="lane1">
           <mxGeometry x="20" y="380" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="lane2" value="验收审批" style="swimlane;startSize=40;fontSize=12;fontStyle=1;fillColor=#488cdc;fontColor=#FFFFFF;" parent="1" vertex="1">
@@ -75,11 +75,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e9" value="不通过" style="edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;entryX=0;entryY=0.5;endArrow=classic;fontSize=10;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" parent="1" source="decision2" target="meeting" edge="1">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.0015" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="250" y="560" />
               <mxPoint x="250" y="430" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="e10" style="edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;entryX=0.5;entryY=0;endArrow=classic;" parent="1" source="transfer" target="report" edge="1">
