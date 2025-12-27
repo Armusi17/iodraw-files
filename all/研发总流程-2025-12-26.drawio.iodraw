@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="page-1">
-    <mxGraphModel dx="3695" dy="1672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1379" dy="322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -504,7 +504,7 @@
         <mxCell id="ZgODB8xKO0AIbyxhGbfr-47" value="研发项目&lt;div&gt;验收申请书&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d4e7d3;" parent="1" vertex="1">
           <mxGeometry x="1120" y="710" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="jTptyi_qijYkCfReXR6d-1" value="研发计划" style="swimlane;fontStyle=1;fontSize=14;fillColor=#4A90E2;strokeColor=#2E5C8A;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="jTptyi_qijYkCfReXR6d-1" value="研发计划" style="swimlane;fontStyle=1;fontSize=14;fillColor=#4A90E2;strokeColor=#2E5C8A;fontColor=#FFFFFF;startSize=30;" vertex="1" parent="1">
           <mxGeometry x="-610" y="40" width="220" height="760" as="geometry" />
         </mxCell>
         <mxCell id="jTptyi_qijYkCfReXR6d-16" value="立项流程" style="swimlane;fontStyle=1;fontSize=14;fillColor=#4A90E2;strokeColor=#2E5C8A;fontColor=#FFFFFF;" vertex="1" parent="1">
