@@ -667,7 +667,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jTptyi_qijYkCfReXR6d-51" value="项目档案输出" style="swimlane;horizontal=0;whiteSpace=wrap;fontColor=#FFFFFF;fillColor=#498edf;" vertex="1" parent="jTptyi_qijYkCfReXR6d-16">
+        <mxCell id="jTptyi_qijYkCfReXR6d-51" value="项目档案输出" style="swimlane;horizontal=0;whiteSpace=wrap;fontColor=#FFFFFF;fillColor=#498edf;html=1;" vertex="1" parent="jTptyi_qijYkCfReXR6d-16">
           <mxGeometry x="-220" y="620" width="2400" height="140" as="geometry" />
         </mxCell>
         <mxCell id="jTptyi_qijYkCfReXR6d-31" value="&lt;font&gt;研发项目&lt;/font&gt;&lt;div&gt;&lt;font&gt;立项决议书&lt;/font&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="jTptyi_qijYkCfReXR6d-51">
@@ -814,7 +814,7 @@
         <mxCell id="jTptyi_qijYkCfReXR6d-98" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 14px; font-weight: 700; text-wrap: nowrap;&quot;&gt;研发项目验收&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#309157;" vertex="1" parent="1">
           <mxGeometry x="890" y="50" width="740" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="jTptyi_qijYkCfReXR6d-99" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 14px; font-weight: 700; text-wrap: nowrap;&quot;&gt;研发项目立项&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#309157;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="jTptyi_qijYkCfReXR6d-99" value="&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 14px; font-weight: 700; text-wrap: nowrap;&quot;&gt;研发项目档案、成果&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#309157;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="-790" y="720" width="20" height="230" as="geometry" />
         </mxCell>
       </root>
