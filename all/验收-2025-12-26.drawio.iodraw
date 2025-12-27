@@ -119,6 +119,9 @@
         <mxCell id="e13" style="edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;entryX=0.5;entryY=0;endArrow=classic;" parent="lane3" source="review" target="end" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="E1oOTfygmo9rwdjZ4kA6-24" value="研发项目&lt;div&gt;成果移交确认单&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d4e7d3;" vertex="1" parent="lane3">
+          <mxGeometry x="70" y="670" width="100" height="50" as="geometry" />
+        </mxCell>
         <mxCell id="e1" style="edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;entryX=0.5;entryY=0;endArrow=classic;" parent="1" source="start" target="submit" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
