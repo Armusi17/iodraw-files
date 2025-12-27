@@ -716,19 +716,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jTptyi_qijYkCfReXR6d-51" value="输出档案、成果" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#498edf;" vertex="1" parent="jTptyi_qijYkCfReXR6d-16">
-          <mxGeometry x="-220" y="590" width="720" height="170" as="geometry" />
+          <mxGeometry x="-220" y="620" width="720" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="jTptyi_qijYkCfReXR6d-50" value="&lt;font&gt;研发项目&lt;/font&gt;&lt;div&gt;&lt;font&gt;立项申请表&lt;/font&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="jTptyi_qijYkCfReXR6d-16">
-          <mxGeometry x="-152.5" y="615" width="80" height="50" as="geometry" />
+        <mxCell id="jTptyi_qijYkCfReXR6d-31" value="&lt;font&gt;研发项目&lt;/font&gt;&lt;div&gt;&lt;font&gt;立项决议书&lt;/font&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="jTptyi_qijYkCfReXR6d-51">
+          <mxGeometry x="387.5" y="30" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="jTptyi_qijYkCfReXR6d-30" value="&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;立项评审意见&lt;/span&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="jTptyi_qijYkCfReXR6d-16">
-          <mxGeometry x="37.5" y="615" width="80" height="50" as="geometry" />
+        <mxCell id="jTptyi_qijYkCfReXR6d-38" value="&lt;font&gt;项目任务计划书&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="jTptyi_qijYkCfReXR6d-51">
+          <mxGeometry x="562.5" y="30" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="jTptyi_qijYkCfReXR6d-31" value="&lt;font&gt;研发项目&lt;/font&gt;&lt;div&gt;&lt;font&gt;立项决议书&lt;/font&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="jTptyi_qijYkCfReXR6d-16">
-          <mxGeometry x="167.5" y="615" width="80" height="50" as="geometry" />
+        <mxCell id="jTptyi_qijYkCfReXR6d-30" value="&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;立项评审意见&lt;/span&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="jTptyi_qijYkCfReXR6d-51">
+          <mxGeometry x="257.5" y="30" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="jTptyi_qijYkCfReXR6d-38" value="&lt;font&gt;项目任务计划书&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="jTptyi_qijYkCfReXR6d-16">
-          <mxGeometry x="342.5" y="615" width="90" height="50" as="geometry" />
+        <mxCell id="jTptyi_qijYkCfReXR6d-50" value="&lt;font&gt;研发项目&lt;/font&gt;&lt;div&gt;&lt;font&gt;立项申请表&lt;/font&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="jTptyi_qijYkCfReXR6d-51">
+          <mxGeometry x="67.5" y="30" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jTptyi_qijYkCfReXR6d-32" value="项目启动" style="swimlane;fontStyle=1;fontSize=14;fillColor=#4A90E2;strokeColor=#2E5C8A;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-240" y="40" width="220" height="760" as="geometry" />
