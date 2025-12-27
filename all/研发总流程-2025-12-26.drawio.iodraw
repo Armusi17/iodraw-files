@@ -564,9 +564,6 @@
         <mxCell id="jTptyi_qijYkCfReXR6d-2" value="研发部总体部门需求" style="rounded=1;fillColor=#d4e6f1;strokeColor=#6C3A7C;fontColor=default;fontSize=12;" vertex="1" parent="jTptyi_qijYkCfReXR6d-1">
           <mxGeometry x="30" y="30" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="jTptyi_qijYkCfReXR6d-3" value="项目需求：&#xa;1.战略规划目标&#xa;2.市场需求分析&#xa;3.技术可行性分析&#xa;4.资源优化配置" style="rounded=0;fillColor=#fcefca;strokeColor=#558B2F;fontColor=default;fontSize=11;" vertex="1" parent="jTptyi_qijYkCfReXR6d-1">
-          <mxGeometry x="30" y="110" width="160" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="jTptyi_qijYkCfReXR6d-4" value="研发计划审批" style="rhombus;fillColor=#BBABCC;strokeColor=#0097A7;fontColor=default;fontSize=12;" vertex="1" parent="jTptyi_qijYkCfReXR6d-1">
           <mxGeometry x="50" y="220" width="120" height="80" as="geometry" />
         </mxCell>
@@ -592,11 +589,10 @@
         <mxCell id="jTptyi_qijYkCfReXR6d-9" value="研发部按照计划&#xa;分发给承担部门" style="rounded=1;fillColor=#d4e6f1;strokeColor=#6C3A7C;fontColor=default;fontSize=12;" vertex="1" parent="jTptyi_qijYkCfReXR6d-1">
           <mxGeometry x="90" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jTptyi_qijYkCfReXR6d-10" style="edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;entryX=0.5;entryY=0;endArrow=classic;strokeColor=#333333;fontColor=default;" edge="1" parent="jTptyi_qijYkCfReXR6d-1" source="jTptyi_qijYkCfReXR6d-2" target="jTptyi_qijYkCfReXR6d-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jTptyi_qijYkCfReXR6d-11" style="edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;entryX=0.5;entryY=0;endArrow=classic;strokeColor=#333333;fontColor=default;" edge="1" parent="jTptyi_qijYkCfReXR6d-1" source="jTptyi_qijYkCfReXR6d-3" target="jTptyi_qijYkCfReXR6d-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="jTptyi_qijYkCfReXR6d-11" style="edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;entryX=0.5;entryY=0;endArrow=classic;strokeColor=#333333;fontColor=default;exitDx=0;exitDy=0;" edge="1" parent="jTptyi_qijYkCfReXR6d-1" source="jTptyi_qijYkCfReXR6d-2" target="jTptyi_qijYkCfReXR6d-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="190" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="jTptyi_qijYkCfReXR6d-12" style="edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;endArrow=classic;strokeColor=#333333;entryX=0.51;entryY=0.064;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=default;" edge="1" parent="jTptyi_qijYkCfReXR6d-1" source="jTptyi_qijYkCfReXR6d-4" target="jTptyi_qijYkCfReXR6d-5">
           <mxGeometry relative="1" as="geometry">
