@@ -74,11 +74,12 @@
         <mxCell id="e7" value="通过" style="edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.3;entryX=0;entryY=0.3;endArrow=classic;fontSize=10;fillColor=#ffffff;" parent="1" source="decision2" target="transfer" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e9" value="不通过" style="edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;entryX=0;entryY=0.5;endArrow=classic;fontSize=10;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" parent="1" source="decision2" target="meeting" edge="1">
+        <mxCell id="e9" value="有条件通过" style="edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.5;entryX=0.5;entryY=1;endArrow=classic;fontSize=10;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" parent="1" source="decision2" target="E1oOTfygmo9rwdjZ4kA6-2" edge="1">
           <mxGeometry x="-0.0015" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="250" y="560" />
               <mxPoint x="250" y="430" />
+              <mxPoint x="140" y="430" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
