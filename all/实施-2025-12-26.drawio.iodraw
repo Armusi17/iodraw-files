@@ -423,6 +423,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ZgODB8xKO0AIbyxhGbfr-10" value="输出成果、文档" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fillColor=#488cdc;fontColor=#FFFFFF;" vertex="1" parent="ZgODB8xKO0AIbyxhGbfr-1">
+          <mxGeometry y="650" width="740" height="150" as="geometry" />
+        </mxCell>
         <mxCell id="ZgODB8xKO0AIbyxhGbfr-12" value="验收审批" style="swimlane;startSize=40;fontSize=12;fontStyle=1;fillColor=#488cdc;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1290" y="40" width="260" height="760" as="geometry" />
         </mxCell>
