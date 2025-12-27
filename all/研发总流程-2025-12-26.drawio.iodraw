@@ -736,13 +736,13 @@
         <mxCell id="jTptyi_qijYkCfReXR6d-68" value="项目成果输出" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;fillColor=#498edf;" vertex="1" parent="1">
           <mxGeometry x="-610" y="800" width="2400" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="jTptyi_qijYkCfReXR6d-78" value="知识产权成果" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#E8C3DF;strokeColor=#82b366;" vertex="1" parent="jTptyi_qijYkCfReXR6d-68">
+        <mxCell id="jTptyi_qijYkCfReXR6d-78" value="发明专利" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#E8C3DF;strokeColor=#82b366;" vertex="1" parent="jTptyi_qijYkCfReXR6d-68">
           <mxGeometry x="67.5" y="20" width="80" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="jTptyi_qijYkCfReXR6d-73" value="技术资料成果" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-180" y="1110" width="80" height="42.5" as="geometry" />
         </mxCell>
-        <mxCell id="jTptyi_qijYkCfReXR6d-74" value="非必要&lt;div&gt;项目档案&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d4e7d3;dashed=1;" vertex="1" parent="1">
+        <mxCell id="jTptyi_qijYkCfReXR6d-74" value="非必要&lt;div&gt;技术资料成果&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d4e7d3;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="1110" width="90" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="jTptyi_qijYkCfReXR6d-75" value="知识产权成果" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#E8C3DF;strokeColor=#82b366;" vertex="1" parent="1">
