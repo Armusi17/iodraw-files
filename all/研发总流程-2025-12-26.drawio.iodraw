@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="page-1">
-    <mxGraphModel dx="4924" dy="2389" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2876" dy="1194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -508,7 +508,7 @@
           <mxGeometry x="-610" y="40" width="220" height="760" as="geometry" />
         </mxCell>
         <mxCell id="jTptyi_qijYkCfReXR6d-16" value="立项流程" style="swimlane;fontStyle=1;fontSize=14;fillColor=#4A90E2;strokeColor=#2E5C8A;fontColor=#FFFFFF;startSize=40;" vertex="1" parent="1">
-          <mxGeometry x="-390" y="40" width="2180" height="760" as="geometry" />
+          <mxGeometry x="-390" y="40" width="280" height="760" as="geometry" />
         </mxCell>
         <mxCell id="jTptyi_qijYkCfReXR6d-2" value="研发部总体部门需求" style="rounded=1;fillColor=#d4e6f1;strokeColor=#6C3A7C;fontColor=default;fontSize=12;" vertex="1" parent="jTptyi_qijYkCfReXR6d-16">
           <mxGeometry x="-185" y="60" width="160" height="50" as="geometry" />
