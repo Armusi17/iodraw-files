@@ -695,17 +695,18 @@
         <mxCell id="jTptyi_qijYkCfReXR6d-32" value="项目启动" style="swimlane;fontStyle=1;fontSize=14;fillColor=#4A90E2;strokeColor=#2E5C8A;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-240" y="40" width="220" height="920" as="geometry" />
         </mxCell>
-        <mxCell id="jTptyi_qijYkCfReXR6d-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=default;" edge="1" parent="jTptyi_qijYkCfReXR6d-32" source="jTptyi_qijYkCfReXR6d-34" target="jTptyi_qijYkCfReXR6d-36">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="jTptyi_qijYkCfReXR6d-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=default;" edge="1" parent="jTptyi_qijYkCfReXR6d-32" source="jTptyi_qijYkCfReXR6d-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="120" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="jTptyi_qijYkCfReXR6d-34" value="承担部门/研发部&#xa;正式发布项目启动公告" style="rounded=1;fillColor=#d4e6f1;strokeColor=#6C3A7C;fontColor=default;fontSize=11;" vertex="1" parent="jTptyi_qijYkCfReXR6d-32">
           <mxGeometry x="20" y="30" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jTptyi_qijYkCfReXR6d-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=default;" edge="1" parent="jTptyi_qijYkCfReXR6d-32" source="jTptyi_qijYkCfReXR6d-36" target="jTptyi_qijYkCfReXR6d-37">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jTptyi_qijYkCfReXR6d-36" value="分配立项研发项目唯一编号RDXX" style="rounded=0;fillColor=#fcefca;strokeColor=#558B2F;fontColor=default;fontSize=11;" vertex="1" parent="jTptyi_qijYkCfReXR6d-32">
-          <mxGeometry x="20" y="120" width="180" height="60" as="geometry" />
+        <mxCell id="jTptyi_qijYkCfReXR6d-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=default;" edge="1" parent="jTptyi_qijYkCfReXR6d-32" target="jTptyi_qijYkCfReXR6d-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="180" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="jTptyi_qijYkCfReXR6d-37" value="承担部门/研发部&#xa;指定项目经理，组建项目组" style="rounded=1;fillColor=#d4e6f1;strokeColor=#6C3A7C;fontColor=default;fontSize=12;" vertex="1" parent="jTptyi_qijYkCfReXR6d-32">
           <mxGeometry x="20" y="220" width="180" height="60" as="geometry" />
@@ -713,8 +714,8 @@
         <mxCell id="jTptyi_qijYkCfReXR6d-38" value="&lt;font&gt;项目任务计划书&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="jTptyi_qijYkCfReXR6d-32">
           <mxGeometry x="62.5" y="775" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="jTptyi_qijYkCfReXR6d-52" value="承担部门/研发部&#xa;正式发布项目启动公告" style="rounded=1;fillColor=#d4e6f1;strokeColor=#6C3A7C;fontColor=default;fontSize=11;" vertex="1" parent="jTptyi_qijYkCfReXR6d-32">
-          <mxGeometry x="20" y="310" width="180" height="60" as="geometry" />
+        <mxCell id="jTptyi_qijYkCfReXR6d-52" value="分配立项研发项目唯一编号RDXX" style="rounded=1;fillColor=#d4e6f1;strokeColor=#6C3A7C;fontColor=default;fontSize=11;" vertex="1" parent="jTptyi_qijYkCfReXR6d-32">
+          <mxGeometry x="20" y="120" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jTptyi_qijYkCfReXR6d-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=default;" edge="1" parent="1" source="jTptyi_qijYkCfReXR6d-9" target="jTptyi_qijYkCfReXR6d-17">
           <mxGeometry relative="1" as="geometry">
